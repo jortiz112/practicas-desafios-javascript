@@ -1,4 +1,4 @@
-# <h1 align="center"> Desafíos del curso Lógica de programación: sumérgete en la progración con JavaScript </h1>
+# <h1 align="center"> Desafíos del curso Lógica de programación: sumérgete en la programación con JavaScript </h1>
 
 >>> ![img](img/curso.png)
 
