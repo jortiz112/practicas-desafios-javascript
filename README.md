@@ -1,14 +1,18 @@
 # <h1 align="center"> Desafíos del curso Lógica de programación: sumérgete en la progración con JavaScript </h1>
 
-<center> <img src="img/curso.png" alt="Curso de lógica de programación con JavaScript"> </center>
+<div align="center">![img](img/curso.png)</div>
 
 ## Descripción del proyecto
 
 ```sh
 
-Este es un curso introductorio a la lógica de programación utilizando JavaScript como lenguaje de programación. El objetivo principal es que los estudiantes aprendan los conceptos y fundamentos básicos de la lógica de programación, como variables, estructuras de control, funciones, entre otros.
+Este es un curso introductorio a la lógica de programación utilizando JavaScript como lenguaje de 
+programación. El objetivo principal es que los estudiantes aprendan los conceptos y fundamentos 
+básicos de la lógica de programación, como variables, estructuras de control, funciones, entre otros.
 
-A lo largo del curso, los estudiantes desarrollarán un proyecto práctico llamado "Número Secreto", en el cual aplicarán estos conceptos de programación. De esta manera, podrán entender cómo llevar ideas del mundo real al mundo de la programación.
+A lo largo del curso, los estudiantes desarrollarán un proyecto práctico llamado "Número Secreto", 
+en el cual aplicarán estos conceptos de programación. De esta manera, podrán entender cómo llevar 
+ideas del mundo real al mundo de la programación.
 
 ```
 
@@ -86,4 +90,4 @@ A lo largo del curso, los estudiantes desarrollarán un proyecto práctico llama
 
 ## Certificado
 
-![img](img/certificado.png)
+>> ![img](img/certificado.png)
