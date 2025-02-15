@@ -1,6 +1,6 @@
 # <h1 align="center"> Desafíos del curso Lógica de programación: sumérgete en la progración con JavaScript </h1>
 
-<div align="center">![img](img/curso.png)</div>
+<p style="text-align: center"><img src="img/curso.png"></p>
 
 ## Descripción del proyecto
 
