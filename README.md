@@ -1,8 +1,12 @@
-# <h1 align="center"> Desafíos del curso Lógica de programación: sumérgete en la programación con JavaScript </h1>
+***
+# <h1 align="center"> 💥Desafíos del curso Lógica de programación: sumérgete en la programación con JavaScript💥 </h1>
+***
 
->>> ![img](img/curso.png)
+<p align="center">
+<br><img src="img/curso.png">
+</p>
 
-## Descripción del proyecto
+## 📄Descripción del proyecto
 
 ```sh
 
@@ -16,7 +20,7 @@ ideas del mundo real al mundo de la programación.
 
 ```
 
-## Recursos y herramientas utilizados
+## 🛠️Recursos y herramientas utilizados
 
 ```sh
 
@@ -26,13 +30,13 @@ ideas del mundo real al mundo de la programación.
 
 ```
 
-## Tecnologías Utilizadas
+## 🌀Tecnologías Utilizadas
 
-- HTML para ejecutar el archivo de javascript (*.js)
+✔️HTML para ejecutar el archivo de javascript (*.js)
 
-- JavaScript
+✔️JavaScript
 
-## Resultados del Desafío 1
+## 🔆Resultados del Desafío 1
 
 >> ![img](img/bienvenida.png)
 
@@ -46,7 +50,7 @@ ideas del mundo real al mundo de la programación.
 
 >> ![img](img/consola.png)
 
-## Resultados del Desafío 2
+## 🔆Resultados del Desafío 2
 
 >> ![img](img/semana.png)
 
@@ -62,7 +66,7 @@ ideas del mundo real al mundo de la programación.
 
 >> ![img](img/bienvenidoJulio.png)
 
-## Resultados del Desafío 3
+## 🔆Resultados del Desafío 3
 
 >> ![img](img/cuentaRegresiva.png)
 
@@ -72,7 +76,7 @@ ideas del mundo real al mundo de la programación.
 
 >> ![img](img/consola4.png)
 
-## Resultados del Desafío 4
+## 🔆Resultados del Desafío 4
 
 >> ![img](img/hola.png)
 
@@ -84,10 +88,11 @@ ideas del mundo real al mundo de la programación.
 
 >> ![img](img/consola5.png)
 
-## Autores del Proyecto
+## 👩👨Autores del Proyecto
 
 >> ![img](img/Foto-Pequeña-julio.png)    Programación JavaScript
 
-## Certificado
+## 📜Certificado
 
 >> ![img](img/certificado.png)
+
